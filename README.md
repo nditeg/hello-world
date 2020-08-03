@@ -1,2 +1,5 @@
 # hello-world
-A refresher to using GitHub
+
+Hi!
+I'm Gabs, Gabe, Gabes, Gabby, Gabbyboy, Gabyboy or just Gabriel.
+
